@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "sgp2.bytenut.cc",
+    "port": 3850,
     "version": "",
     "try-creative": false
   },
